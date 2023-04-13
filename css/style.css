@@ -1,0 +1,14 @@
+body{
+	background: white;
+	background-attachment: fixed;
+}
+
+.body{
+	background:black;
+}
+
+header{
+	background:yellow;
+	background-attachment: fixed;
+}
+
